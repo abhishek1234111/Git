@@ -2,4 +2,8 @@ My dogs are healthy
 
 hello awesome
 
+<<<<<<< HEAD
 nice
+=======
+
+>>>>>>> b2
